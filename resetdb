@@ -1,0 +1,3 @@
+rm -rf ~/.insight/txs
+rm -rf ~/.insight/blocks
+./start
